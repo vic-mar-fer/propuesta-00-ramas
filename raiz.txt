@@ -1,1 +1,3 @@
 Este es el fichero raíz.
+
+Añadido en la rama 2
